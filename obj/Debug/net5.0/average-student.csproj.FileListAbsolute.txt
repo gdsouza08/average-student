@@ -1,0 +1,16 @@
+C:\Users\Guilherme\Documents\DIO\.NET\average-student\bin\Debug\net5.0\average-student.exe
+C:\Users\Guilherme\Documents\DIO\.NET\average-student\bin\Debug\net5.0\average-student.deps.json
+C:\Users\Guilherme\Documents\DIO\.NET\average-student\bin\Debug\net5.0\average-student.runtimeconfig.json
+C:\Users\Guilherme\Documents\DIO\.NET\average-student\bin\Debug\net5.0\average-student.runtimeconfig.dev.json
+C:\Users\Guilherme\Documents\DIO\.NET\average-student\bin\Debug\net5.0\average-student.dll
+C:\Users\Guilherme\Documents\DIO\.NET\average-student\bin\Debug\net5.0\ref\average-student.dll
+C:\Users\Guilherme\Documents\DIO\.NET\average-student\bin\Debug\net5.0\average-student.pdb
+C:\Users\Guilherme\Documents\DIO\.NET\average-student\obj\Debug\net5.0\average-student.csprojAssemblyReference.cache
+C:\Users\Guilherme\Documents\DIO\.NET\average-student\obj\Debug\net5.0\average-student.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme\Documents\DIO\.NET\average-student\obj\Debug\net5.0\average-student.AssemblyInfoInputs.cache
+C:\Users\Guilherme\Documents\DIO\.NET\average-student\obj\Debug\net5.0\average-student.AssemblyInfo.cs
+C:\Users\Guilherme\Documents\DIO\.NET\average-student\obj\Debug\net5.0\average-student.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\Documents\DIO\.NET\average-student\obj\Debug\net5.0\average-student.dll
+C:\Users\Guilherme\Documents\DIO\.NET\average-student\obj\Debug\net5.0\ref\average-student.dll
+C:\Users\Guilherme\Documents\DIO\.NET\average-student\obj\Debug\net5.0\average-student.pdb
+C:\Users\Guilherme\Documents\DIO\.NET\average-student\obj\Debug\net5.0\average-student.genruntimeconfig.cache
